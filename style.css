@@ -52,4 +52,11 @@ p{
 .button:hover{
     background:#a88416;
     transform:scale(1.05);
+}.cover-photo{
+    width:100%;
+    max-width:450px;
+    border-radius:20px;
+    margin-bottom:25px;
+    box-shadow:0 15px 40px rgba(0,0,0,.20);
+    object-fit:cover;
 }
