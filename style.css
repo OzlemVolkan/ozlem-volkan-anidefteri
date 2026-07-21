@@ -53,6 +53,7 @@ p{
     border-radius:50px;
     font-weight:bold;
     transition:.3s;
+    font-size:22px;
 }
 
 .button:hover{
